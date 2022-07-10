@@ -1,2 +1,2 @@
-# shellgoesnuts
-shell scripts for me, "she'll goes nuts" (shellgoesnuts)
+# shellgosnuts
+shell scripts for me, "she'll go nuts" (shellgosnuts)
