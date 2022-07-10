@@ -1,2 +1,2 @@
 # shellgonuts
-shell scripts in the nutshell for me, "she'll go nuts" (shellgosnuts)
+shell scripts in the nutshell for me, "she'll go nuts" (shellgonuts)
