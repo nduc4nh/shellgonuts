@@ -1,5 +1,5 @@
 . ./sender.sh
-. ../colors.sh
+. ../utils/colors.sh
 
 color=$BROWN_ORANGE
 color2=$BLUE
