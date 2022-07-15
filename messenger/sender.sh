@@ -1,2 +1,2 @@
-name='be'
-mess='Whatsup'
+name='Be'
+mess='Hi'

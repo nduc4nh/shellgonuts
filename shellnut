@@ -1,0 +1,3 @@
+sh $SHENUT/utils/logo.sh
+
+sh $SHENUT/handles/handles.sh
