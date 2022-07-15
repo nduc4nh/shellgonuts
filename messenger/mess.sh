@@ -1,5 +1,5 @@
 . $SHENUT/messenger/sender.sh
-. $SHENUT/messenger/utils/colors.sh
+. $SHENUT/utils/colors.sh
 
 color=$BROWN_ORANGE
 color2=$BLUE
