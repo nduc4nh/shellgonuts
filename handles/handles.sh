@@ -10,5 +10,5 @@ if [ "${option}" = 1 ]
 then
 sh $SHENUT/handles/mess.handle.sh
 else
-echo "Wait"
+echo "Still progress"
 fi
